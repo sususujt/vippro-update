@@ -1,2 +1,2 @@
-
-Không thể kết nối với máy chủ
+Đã có phiên bản mới fix lỗi, mặc định hiện sim1 cho máy 2 sim
+https://raw.githubusercontent.com/sususujt/html/refs/heads/main/log.apk
